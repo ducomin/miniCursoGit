@@ -18,7 +18,8 @@ public class JavaAppGit {
 
         // TODO222 code application logic here
 
-        // TODO44444 code application logic here
+        // TODO44444 chkjghkjfgkjf
+        System.err.println("teste");
 
         // aqui eu fiz uma alteraçãokjhkjglkhjkgljhlkg
     }
